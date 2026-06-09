@@ -10,4 +10,4 @@ def suma_mod(a, b, n):
     Regresa:
     El residuo de dividir a + b entre n.
     """
-    pass
+    return (a + b) % n
